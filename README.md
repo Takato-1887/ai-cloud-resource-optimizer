@@ -16,3 +16,8 @@ Job-Parent Relationships: Master/worker relationships, such as those found in Ma
 
 Dataset Availability
 The dataset is available via Google BigQuery, allowing for sophisticated analyses without the need for local resources.
+
+Project Goals
+Explore changes in workload variance and resource utilization since 2011.
+Analyze the impact of additional data, such as CPU usage histograms and alloc set reservations.
+Develop insights into cluster scheduling and resource management.
