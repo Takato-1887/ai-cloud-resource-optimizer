@@ -12,3 +12,7 @@ Job Submissions: Every job submission is recorded, including job metadata and re
 Scheduling Decisions: Detailed information about scheduling decisions, including alloc set reservations and job-parent relationships.
 Resource Usage: CPU usage information histograms for each 5-minute period, providing a more accurate representation of resource utilization.
 Job-Parent Relationships: Master/worker relationships, such as those found in MapReduce jobs, are also included.
+
+
+Dataset Availability
+The dataset is available via Google BigQuery, allowing for sophisticated analyses without the need for local resources.
