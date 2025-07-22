@@ -15,7 +15,7 @@ Job-Parent Relationships: Master/worker relationships, such as those found in Ma
 
 
 Dataset Availability
-The dataset is available via Google BigQuery, allowing for sophisticated analyses without the need for local resources.
+The dataset is available via Google BigQuery, allowing for sophisticated analyses without the need for local resources. Reference:https://www.kaggle.com/datasets/derrickmwiti/google-2019-cluster-sample
 
 Project Goals
 Explore changes in workload variance and resource utilization since 2011.
